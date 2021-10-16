@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fef9ef;
+  font-family: "Roboto", sans-serif;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  background-color: #a2d2ff;
+  padding: 1%;
+}
+.heading {
+  font: 4rem "Roboto", sans-serif;
+}
+.search {
+  height: auto;
+  margin: 2%;
+}
+.inputField {
+  margin: 1%;
+  padding: 1%;
+  font-size: 1.5rem;
+  border-radius: 2em;
+  border: 1px double #fff1d4;
+}
+#searchForm {
+  display: flex;
+  justify-content: center;
+}
+
+.result {
+  text-align: center;
+  padding-top: 2%;
+  font: 2rem "Roboto", sans-serif;
+}
