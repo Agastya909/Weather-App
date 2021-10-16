@@ -1,5 +1,5 @@
 const form = document.getElementById('searchForm');
-const apiKey = "1199330896d34c28f209977df19f3db8";
+const apiKey = ""; // add your api keys here that you got from open weather data website. 
 const unit = "metric";
 const resultDiv = document.getElementById('resDiv');
 
